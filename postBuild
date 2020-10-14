@@ -1,1 +1,2 @@
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
+cat /tmp/jupyterlab-debug-2vqv4ums.log
