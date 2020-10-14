@@ -13,6 +13,7 @@ dependencies:
   - numpy
   - scipy
   - ipympl
+  - nodejs
   - pip
   - pip:
     - pandas
